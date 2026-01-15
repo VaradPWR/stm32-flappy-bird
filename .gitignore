@@ -1,0 +1,22 @@
+# Build output
+build/
+*.o
+*.d
+*.lst
+*.map
+*.elf
+*.bin
+*.hex
+
+# IDE files
+.vscode/
+*.launch
+*.log
+
+# CubeMX temp files
+*.bak
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
